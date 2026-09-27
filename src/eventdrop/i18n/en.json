@@ -12,7 +12,7 @@
     "toggle_dark_mode": "Toggle dark mode"
   },
   "footer": {
-    "tagline": "EventDrop — Share your event moments",
+    "tagline": "30 AND HALF — Share your event moments",
     "home": "Home",
     "events": "Events"
   },
@@ -45,7 +45,7 @@
     "you": "you"
   },
   "index": {
-    "title": "EventDrop — Share your event moments",
+    "title": "30 AND HALF — Share your event moments",
     "tagline": "The easiest way to collect and share photos & videos from your events. No app required for guests — just drop and enjoy.",
     "go_to_events": "Go to My Events",
     "get_started": "Create an account",
@@ -59,7 +59,7 @@
   },
   "auth": {
     "login": {
-      "title": "Log in — EventDrop",
+      "title": "Log in — 30 AND HALF",
       "heading": "Sign in to your account",
       "or_create": "Or",
       "create_account_link": "create a new account",
@@ -70,7 +70,7 @@
       "or_continue_with": "Or continue with"
     },
     "signup": {
-      "title": "Create an account — EventDrop",
+      "title": "Create an account — 30 AND HALF",
       "heading": "Create your account",
       "already_have_account": "Already have an account?",
       "sign_in_link": "Sign in",
@@ -82,7 +82,7 @@
       "create_btn": "Create Account"
     },
     "forgot": {
-      "title": "Forgot Password — EventDrop",
+      "title": "Forgot Password — 30 AND HALF",
       "heading": "Forgot your password?",
       "subtitle": "Enter your email address and we'll send you a reset link.",
       "email": "Email address",
@@ -90,7 +90,7 @@
       "back_to_login": "Back to login"
     },
     "reset": {
-      "title": "Reset Password — EventDrop",
+      "title": "Reset Password — 30 AND HALF",
       "heading": "Set a new password",
       "subtitle": "Choose a strong password of at least 8 characters.",
       "new_password": "New password",
@@ -101,7 +101,7 @@
       "back_to_login": "Back to login"
     },
     "change_password": {
-      "title": "Change Password — EventDrop",
+      "title": "Change Password — 30 AND HALF",
       "heading": "Change your password",
       "subtitle": "You must set a new password before continuing.",
       "new_password": "New password",
@@ -113,7 +113,7 @@
   },
   "events": {
     "list": {
-      "title": "My Events — EventDrop",
+      "title": "My Events — 30 AND HALF",
       "heading": "My Events",
       "event_count_one": "1 event",
       "event_count_many": "{n} events",
@@ -139,7 +139,7 @@
       "uploads_disabled": "Uploads closed"
     },
     "create": {
-      "title": "Create Event — EventDrop",
+      "title": "Create Event — 30 AND HALF",
       "breadcrumb_new": "New Event",
       "heading": "Create New Event",
       "subtitle": "Set up a new event to collect photos and videos from your guests.",
@@ -157,7 +157,7 @@
       "cancel_btn": "Cancel"
     },
     "edit": {
-      "title": "Edit: {name} — EventDrop",
+      "title": "Edit: {name} — 30 AND HALF",
       "heading": "Edit Event",
       "breadcrumb": "Edit",
       "stat_files": "Files",
@@ -212,7 +212,7 @@
     }
   },
   "upload": {
-    "page_title": "Upload — {name} — EventDrop",
+    "page_title": "Upload — {name} — 30 AND HALF",
     "qr_heading": "Open on your phone",
     "qr_desc": "Scan this code with your phone camera to upload directly from your device",
     "email_send_heading": "Send photos by email",
@@ -244,7 +244,7 @@
     "closed_unavailable": "This event is no longer available."
   },
   "gallery": {
-    "title": "Gallery — {name} — EventDrop",
+    "title": "Gallery — {name} — 30 AND HALF",
     "upload_more": "Upload More",
     "download_all": "Download All",
     "manage": "Manage",
@@ -301,7 +301,7 @@
     "batch_ready_hint": "Archives become available as they finish — download each one as it appears."
   },
   "account": {
-    "title": "My Account — EventDrop",
+    "title": "My Account — 30 AND HALF",
     "heading": "My Account",
     "subtitle": "Manage your account settings",
     "section_profile": "Profile",
@@ -323,7 +323,7 @@
   },
   "admin": {
     "dash": {
-      "title": "Admin Dashboard — EventDrop",
+      "title": "Admin Dashboard — 30 AND HALF",
       "heading": "Admin Dashboard",
       "subtitle": "System overview and recent activity",
       "stat_users": "Users",
@@ -344,7 +344,7 @@
       "files_count": "{n} file(s)"
     },
     "users": {
-      "title": "Admin — User Management — EventDrop",
+      "title": "Admin — User Management — 30 AND HALF",
       "heading": "User Management",
       "col_user": "User",
       "col_email": "Email",
@@ -361,7 +361,7 @@
       "delete_confirm": "Delete user {username}? All their events and media will be deleted too. This cannot be undone."
     },
     "events": {
-      "title": "Admin — All Events — EventDrop",
+      "title": "Admin — All Events — 30 AND HALF",
       "heading": "All Events",
       "col_name": "Event Name",
       "col_owner": "Owner",
@@ -404,9 +404,9 @@
       "created_label": "Created:"
     },
     "settings": {
-      "title": "Application Settings — EventDrop Admin",
+      "title": "Application Settings — 30 AND HALF Admin",
       "heading": "Application Settings",
-      "subtitle": "Configure global EventDrop behaviour",
+      "subtitle": "Configure global 30 AND HALF behaviour",
       "back_to_dashboard": "Back to Dashboard",
       "section_registration": "User Registration",
       "allow_registration_label": "Allow public registration",
@@ -442,10 +442,10 @@
     }
   },
   "errors": {
-    "e404_title": "404 — Page Not Found — EventDrop",
+    "e404_title": "404 — Page Not Found — 30 AND HALF",
     "e404_heading": "Page not found",
     "e404_desc": "Sorry, we couldn't find the page you were looking for. It may have been moved or deleted.",
-    "e500_title": "500 — Server Error — EventDrop",
+    "e500_title": "500 — Server Error — 30 AND HALF",
     "e500_heading": "Internal server error",
     "e500_desc": "Something went wrong on our end. We're working on it. Please try again later.",
     "go_home": "Go home",

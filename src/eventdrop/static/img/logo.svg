@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="#D6A23A" role="img" aria-label="The 30½ Ritual emblem">
+<circle cx="100" cy="100" r="94" stroke-width="1"></circle>
+<circle cx="100" cy="100" r="80" stroke-width="0.5" stroke-dasharray="1 5"></circle>
+<path d="M56 132V96a44 44 0 0 1 88 0v36" stroke-width="1"></path>
+<path d="M40 132h120M52 142h96M64 152h72" stroke-width="0.75"></path>
+<circle cx="100" cy="70" r="13" stroke-width="1"></circle>
+<path d="M100 6v22M100 172v22M6 100h22M172 100h22" stroke-width="0.75"></path>
+</svg>

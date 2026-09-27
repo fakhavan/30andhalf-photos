@@ -12,7 +12,7 @@
     "toggle_dark_mode": "Mode sombre"
   },
   "footer": {
-    "tagline": "EventDrop — Partagez vos souvenirs",
+    "tagline": "30 AND HALF — Partagez vos souvenirs",
     "home": "Accueil",
     "events": "Événements"
   },
@@ -45,7 +45,7 @@
     "you": "vous"
   },
   "index": {
-    "title": "EventDrop — Partagez vos souvenirs",
+    "title": "30 AND HALF — Partagez vos souvenirs",
     "tagline": "La façon la plus simple de collecter et partager photos & vidéos de vos événements. Aucune app requise — déposez et profitez.",
     "go_to_events": "Mes événements",
     "get_started": "Créer un compte",
@@ -59,7 +59,7 @@
   },
   "auth": {
     "login": {
-      "title": "Connexion — EventDrop",
+      "title": "Connexion — 30 AND HALF",
       "heading": "Connexion à votre compte",
       "or_create": "Ou",
       "create_account_link": "créer un nouveau compte",
@@ -70,7 +70,7 @@
       "or_continue_with": "Ou continuer avec"
     },
     "signup": {
-      "title": "Créer un compte — EventDrop",
+      "title": "Créer un compte — 30 AND HALF",
       "heading": "Créer votre compte",
       "already_have_account": "Vous avez déjà un compte ?",
       "sign_in_link": "Connexion",
@@ -82,7 +82,7 @@
       "create_btn": "Créer le compte"
     },
     "forgot": {
-      "title": "Mot de passe oublié — EventDrop",
+      "title": "Mot de passe oublié — 30 AND HALF",
       "heading": "Mot de passe oublié ?",
       "subtitle": "Entrez votre adresse e-mail et nous vous enverrons un lien de réinitialisation.",
       "email": "Adresse e-mail",
@@ -90,7 +90,7 @@
       "back_to_login": "Retour à la connexion"
     },
     "reset": {
-      "title": "Réinitialiser le mot de passe — EventDrop",
+      "title": "Réinitialiser le mot de passe — 30 AND HALF",
       "heading": "Définir un nouveau mot de passe",
       "subtitle": "Choisissez un mot de passe fort d'au moins 8 caractères.",
       "new_password": "Nouveau mot de passe",
@@ -101,7 +101,7 @@
       "back_to_login": "Retour à la connexion"
     },
     "change_password": {
-      "title": "Changer le mot de passe — EventDrop",
+      "title": "Changer le mot de passe — 30 AND HALF",
       "heading": "Changer votre mot de passe",
       "subtitle": "Vous devez définir un nouveau mot de passe avant de continuer.",
       "new_password": "Nouveau mot de passe",
@@ -113,7 +113,7 @@
   },
   "events": {
     "list": {
-      "title": "Mes événements — EventDrop",
+      "title": "Mes événements — 30 AND HALF",
       "heading": "Mes événements",
       "event_count_one": "1 événement",
       "event_count_many": "{n} événements",
@@ -139,7 +139,7 @@
       "uploads_disabled": "Dépôts fermés"
     },
     "create": {
-      "title": "Créer un événement — EventDrop",
+      "title": "Créer un événement — 30 AND HALF",
       "breadcrumb_new": "Nouvel événement",
       "heading": "Créer un nouvel événement",
       "subtitle": "Configurez un nouvel événement pour collecter photos et vidéos de vos invités.",
@@ -157,7 +157,7 @@
       "cancel_btn": "Annuler"
     },
     "edit": {
-      "title": "Modifier : {name} — EventDrop",
+      "title": "Modifier : {name} — 30 AND HALF",
       "heading": "Modifier l'événement",
       "breadcrumb": "Modifier",
       "stat_files": "Fichiers",
@@ -212,7 +212,7 @@
     }
   },
   "upload": {
-    "page_title": "Dépôt — {name} — EventDrop",
+    "page_title": "Dépôt — {name} — 30 AND HALF",
     "qr_heading": "Ouvrir sur votre téléphone",
     "qr_desc": "Scannez ce code avec l'appareil photo de votre téléphone pour déposer directement depuis votre appareil",
     "email_send_heading": "Envoyer des photos par e-mail",
@@ -244,7 +244,7 @@
     "closed_unavailable": "Cet événement n'est plus disponible."
   },
   "gallery": {
-    "title": "Galerie — {name} — EventDrop",
+    "title": "Galerie — {name} — 30 AND HALF",
     "upload_more": "Déposer plus",
     "download_all": "Tout télécharger",
     "manage": "Gérer",
@@ -301,7 +301,7 @@
     "batch_ready_hint": "Les archives deviennent disponibles au fur et à mesure — téléchargez chacune dès qu'elle est prête."
   },
   "account": {
-    "title": "Mon compte — EventDrop",
+    "title": "Mon compte — 30 AND HALF",
     "heading": "Mon compte",
     "subtitle": "Gérez les paramètres de votre compte",
     "section_profile": "Profil",
@@ -323,7 +323,7 @@
   },
   "admin": {
     "dash": {
-      "title": "Tableau de bord Admin — EventDrop",
+      "title": "Tableau de bord Admin — 30 AND HALF",
       "heading": "Tableau de bord Admin",
       "subtitle": "Vue d'ensemble et activité récente",
       "stat_users": "Utilisateurs",
@@ -344,7 +344,7 @@
       "files_count": "{n} fichier(s)"
     },
     "users": {
-      "title": "Admin — Gestion des utilisateurs — EventDrop",
+      "title": "Admin — Gestion des utilisateurs — 30 AND HALF",
       "heading": "Gestion des utilisateurs",
       "col_user": "Utilisateur",
       "col_email": "E-mail",
@@ -361,7 +361,7 @@
       "delete_confirm": "Supprimer l'utilisateur {username} ? Tous ses événements et médias seront supprimés. Cette action est irréversible."
     },
     "events": {
-      "title": "Admin — Tous les événements — EventDrop",
+      "title": "Admin — Tous les événements — 30 AND HALF",
       "heading": "Tous les événements",
       "col_name": "Nom de l'événement",
       "col_owner": "Propriétaire",
@@ -404,9 +404,9 @@
       "created_label": "Créé le :"
     },
     "settings": {
-      "title": "Paramètres — EventDrop Admin",
+      "title": "Paramètres — 30 AND HALF Admin",
       "heading": "Paramètres de l'application",
-      "subtitle": "Configurer le comportement global d'EventDrop",
+      "subtitle": "Configurer le comportement global d'30 AND HALF",
       "back_to_dashboard": "Retour au tableau de bord",
       "section_registration": "Inscription des utilisateurs",
       "allow_registration_label": "Autoriser l'inscription publique",
@@ -442,10 +442,10 @@
     }
   },
   "errors": {
-    "e404_title": "404 — Page introuvable — EventDrop",
+    "e404_title": "404 — Page introuvable — 30 AND HALF",
     "e404_heading": "Page introuvable",
     "e404_desc": "Désolé, nous n'avons pas trouvé la page que vous cherchez. Elle a peut-être été déplacée ou supprimée.",
-    "e500_title": "500 — Erreur serveur — EventDrop",
+    "e500_title": "500 — Erreur serveur — 30 AND HALF",
     "e500_heading": "Erreur interne du serveur",
     "e500_desc": "Une erreur s'est produite de notre côté. Nous y travaillons. Veuillez réessayer plus tard.",
     "go_home": "Accueil",

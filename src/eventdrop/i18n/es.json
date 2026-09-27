@@ -12,7 +12,7 @@
     "toggle_dark_mode": "Modo oscuro"
   },
   "footer": {
-    "tagline": "EventDrop — Comparte tus momentos",
+    "tagline": "30 AND HALF — Comparte tus momentos",
     "home": "Inicio",
     "events": "Eventos"
   },
@@ -45,7 +45,7 @@
     "you": "tú"
   },
   "index": {
-    "title": "EventDrop — Comparte tus momentos",
+    "title": "30 AND HALF — Comparte tus momentos",
     "tagline": "La forma más fácil de recopilar y compartir fotos y videos de tus eventos. Sin app para los invitados — solo sube y disfruta.",
     "go_to_events": "Mis eventos",
     "get_started": "Crear una cuenta",
@@ -59,7 +59,7 @@
   },
   "auth": {
     "login": {
-      "title": "Iniciar sesión — EventDrop",
+      "title": "Iniciar sesión — 30 AND HALF",
       "heading": "Iniciar sesión en tu cuenta",
       "or_create": "O",
       "create_account_link": "crear una cuenta nueva",
@@ -70,7 +70,7 @@
       "or_continue_with": "O continuar con"
     },
     "signup": {
-      "title": "Crear cuenta — EventDrop",
+      "title": "Crear cuenta — 30 AND HALF",
       "heading": "Crear tu cuenta",
       "already_have_account": "¿Ya tienes una cuenta?",
       "sign_in_link": "Iniciar sesión",
@@ -82,7 +82,7 @@
       "create_btn": "Crear cuenta"
     },
     "forgot": {
-      "title": "Contraseña olvidada — EventDrop",
+      "title": "Contraseña olvidada — 30 AND HALF",
       "heading": "¿Olvidaste tu contraseña?",
       "subtitle": "Introduce tu correo y te enviaremos un enlace de restablecimiento.",
       "email": "Correo electrónico",
@@ -90,7 +90,7 @@
       "back_to_login": "Volver al inicio de sesión"
     },
     "reset": {
-      "title": "Restablecer contraseña — EventDrop",
+      "title": "Restablecer contraseña — 30 AND HALF",
       "heading": "Establecer nueva contraseña",
       "subtitle": "Elige una contraseña segura de al menos 8 caracteres.",
       "new_password": "Nueva contraseña",
@@ -101,7 +101,7 @@
       "back_to_login": "Volver al inicio de sesión"
     },
     "change_password": {
-      "title": "Cambiar contraseña — EventDrop",
+      "title": "Cambiar contraseña — 30 AND HALF",
       "heading": "Cambia tu contraseña",
       "subtitle": "Debes establecer una nueva contraseña antes de continuar.",
       "new_password": "Nueva contraseña",
@@ -113,7 +113,7 @@
   },
   "events": {
     "list": {
-      "title": "Mis eventos — EventDrop",
+      "title": "Mis eventos — 30 AND HALF",
       "heading": "Mis eventos",
       "event_count_one": "1 evento",
       "event_count_many": "{n} eventos",
@@ -139,7 +139,7 @@
       "uploads_disabled": "Subidas cerradas"
     },
     "create": {
-      "title": "Crear evento — EventDrop",
+      "title": "Crear evento — 30 AND HALF",
       "breadcrumb_new": "Nuevo evento",
       "heading": "Crear nuevo evento",
       "subtitle": "Configura un nuevo evento para recopilar fotos y videos de tus invitados.",
@@ -157,7 +157,7 @@
       "cancel_btn": "Cancelar"
     },
     "edit": {
-      "title": "Editar: {name} — EventDrop",
+      "title": "Editar: {name} — 30 AND HALF",
       "heading": "Editar evento",
       "breadcrumb": "Editar",
       "stat_files": "Archivos",
@@ -212,7 +212,7 @@
     }
   },
   "upload": {
-    "page_title": "Subir — {name} — EventDrop",
+    "page_title": "Subir — {name} — 30 AND HALF",
     "qr_heading": "Abrir en tu móvil",
     "qr_desc": "Escanea este código con la cámara de tu móvil para subir directamente desde tu dispositivo",
     "email_send_heading": "Enviar fotos por email",
@@ -244,7 +244,7 @@
     "closed_unavailable": "Este evento ya no está disponible."
   },
   "gallery": {
-    "title": "Galería — {name} — EventDrop",
+    "title": "Galería — {name} — 30 AND HALF",
     "upload_more": "Subir más",
     "download_all": "Descargar todo",
     "manage": "Gestionar",
@@ -301,7 +301,7 @@
     "batch_ready_hint": "Los archivos se van habilitando a medida que se completan — descarga cada uno cuando aparezca."
   },
   "account": {
-    "title": "Mi cuenta — EventDrop",
+    "title": "Mi cuenta — 30 AND HALF",
     "heading": "Mi cuenta",
     "subtitle": "Gestiona los ajustes de tu cuenta",
     "section_profile": "Perfil",
@@ -323,7 +323,7 @@
   },
   "admin": {
     "dash": {
-      "title": "Panel de Admin — EventDrop",
+      "title": "Panel de Admin — 30 AND HALF",
       "heading": "Panel de Admin",
       "subtitle": "Resumen del sistema y actividad reciente",
       "stat_users": "Usuarios",
@@ -344,7 +344,7 @@
       "files_count": "{n} archivo(s)"
     },
     "users": {
-      "title": "Admin — Gestión de usuarios — EventDrop",
+      "title": "Admin — Gestión de usuarios — 30 AND HALF",
       "heading": "Gestión de usuarios",
       "col_user": "Usuario",
       "col_email": "Email",
@@ -361,7 +361,7 @@
       "delete_confirm": "¿Eliminar usuario {username}? Todos sus eventos y medios también se eliminarán. No se puede deshacer."
     },
     "events": {
-      "title": "Admin — Todos los eventos — EventDrop",
+      "title": "Admin — Todos los eventos — 30 AND HALF",
       "heading": "Todos los eventos",
       "col_name": "Nombre del evento",
       "col_owner": "Propietario",
@@ -404,9 +404,9 @@
       "created_label": "Creado:"
     },
     "settings": {
-      "title": "Ajustes de la aplicación — EventDrop Admin",
+      "title": "Ajustes de la aplicación — 30 AND HALF Admin",
       "heading": "Ajustes de la aplicación",
-      "subtitle": "Configura el comportamiento global de EventDrop",
+      "subtitle": "Configura el comportamiento global de 30 AND HALF",
       "back_to_dashboard": "Volver al panel",
       "section_registration": "Registro de usuarios",
       "allow_registration_label": "Permitir registro público",
@@ -442,10 +442,10 @@
     }
   },
   "errors": {
-    "e404_title": "404 — Página no encontrada — EventDrop",
+    "e404_title": "404 — Página no encontrada — 30 AND HALF",
     "e404_heading": "Página no encontrada",
     "e404_desc": "Lo sentimos, no encontramos la página que buscas. Puede que haya sido movida o eliminada.",
-    "e500_title": "500 — Error del servidor — EventDrop",
+    "e500_title": "500 — Error del servidor — 30 AND HALF",
     "e500_heading": "Error interno del servidor",
     "e500_desc": "Algo salió mal de nuestro lado. Estamos trabajando en ello. Por favor, inténtalo más tarde.",
     "go_home": "Inicio",

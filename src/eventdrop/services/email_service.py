@@ -52,14 +52,14 @@ async def send_email(to: str, subject: str, body_html: str, body_text: Optional[
 
 
 async def send_password_reset_email(to: str, reset_url: str) -> bool:
-    subject = "EventDrop — Reset your password"
+    subject = "30 AND HALF — Reset your password"
     body_html = f"""
     <div style="font-family: sans-serif; max-width: 480px; margin: 0 auto;">
-        <h2 style="color: #4f46e5;">Reset your EventDrop password</h2>
+        <h2 style="color: #4f46e5;">Reset your 30 AND HALF password</h2>
         <p>You requested a password reset. Click the link below to set a new password:</p>
         <p><a href="{reset_url}" style="display:inline-block;padding:10px 20px;background:#4f46e5;color:#fff;text-decoration:none;border-radius:6px;">Reset Password</a></p>
         <p style="color:#6b7280;font-size:13px;">This link expires in 1 hour. If you didn't request this, you can ignore this email.</p>
     </div>
     """
-    body_text = f"Reset your EventDrop password by visiting: {reset_url}\n\nThis link expires in 1 hour."
+    body_text = f"Reset your 30 AND HALF password by visiting: {reset_url}\n\nThis link expires in 1 hour."
     return await send_email(to, subject, body_html, body_text)
